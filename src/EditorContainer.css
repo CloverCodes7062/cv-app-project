@@ -1,7 +1,7 @@
 .editor-container {
     display: flex;
     flex-direction: column;
-    width: 30%;
+    width: 25%;
     height: 100%;
     overflow-y: auto;
     margin-top: -15px;
