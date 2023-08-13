@@ -17,7 +17,7 @@ import CourseworkEditor from './CourseworkEditor.jsx'
 import CvExperience from './CvExperience.jsx'
 import ExperienceEditor from './ExperienceEditor.jsx'
 import CvSkills from './CvSkills.jsx'
-import SkillsEditor from './skillsEditor.jsx'
+import SkillsEditor from './SkillsEditor.jsx'
 
 function App() {
   const [nameValue, setNameValue] = React.useState('Stacy McCarrell');
