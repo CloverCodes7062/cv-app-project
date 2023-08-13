@@ -12,7 +12,7 @@ import EducationEditor from './EducationEditor.jsx'
 import 'animate.css';
 import CvProjects from './CvProjects.jsx'
 import ProjectsEditor from './ProjectsEditor.jsx'
-import CvCoursework from './CvCourseWork.jsx'
+import CvCoursework from './CvCoursework.jsx'
 import CourseworkEditor from './CourseworkEditor.jsx'
 import CvExperience from './CvExperience.jsx'
 import ExperienceEditor from './ExperienceEditor.jsx'
