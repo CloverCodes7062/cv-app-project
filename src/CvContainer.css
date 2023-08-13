@@ -1,0 +1,23 @@
+
+.cv-container {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: auto;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px black;
+    overflow-y: auto;
+}
+
+.fa-print {
+    color: black;
+}
+
+.cv-container .fa-print {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-top: 50px;
+    font-size: 28px;
+}

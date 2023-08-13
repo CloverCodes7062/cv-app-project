@@ -1,0 +1,26 @@
+.fa-pencil {
+    color: black;
+}
+
+.reusable-main-grouping-container {
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    box-shadow: 0 0 5px black;
+    border-radius: 10px;
+}
+
+.reusable-secondary-grouping-container {
+    width: 100%;
+    height: auto;
+    padding-bottom: 15px;
+}
+
+.reusable-grouping-header {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.project-header:last-child {
+    margin-bottom: 20px;
+}

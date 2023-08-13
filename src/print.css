@@ -1,0 +1,24 @@
+@media print {
+    .printable {
+
+    }
+
+    .personal-details-container,
+    .editor-container-reusable,
+    .fa-print {
+        display: none;
+    }
+
+    .cv-container {
+        width: 100% !important;
+        height: auto;
+        position: static;
+        overflow-y: unset;
+        border-radius: unset;
+        box-shadow: unset;
+        border: none;
+        page-break-before: auto;
+        page-break-inside: avoid;
+        margin: 0 auto !important;
+    }
+}

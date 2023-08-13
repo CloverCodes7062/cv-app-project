@@ -1,0 +1,46 @@
+.cv-header-container {
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20%;
+    width: 100%;
+    padding: 5%;
+    height: 20%;
+    background-color: #0e374e;
+    border-radius: 10px 10px 0 0;
+}
+
+#name {
+    font-size: 2em;
+    text-align: center;
+    color: #ffffff;
+}
+
+.personal-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#email {
+    font-size: 1.1em;
+    text-align: center;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+#phone-number {
+    font-size: 1.1em;
+    text-align: center;
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+#location {
+    font-size: 1.1em;
+    text-align: center;
+    font-weight: 600;
+    margin-right: 10px;
+}

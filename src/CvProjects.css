@@ -1,0 +1,29 @@
+.second-projects-container {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.second-projects-container p {
+    color: black;
+}
+
+.ul-list {
+    margin-top: 10px;
+}
+
+.projects-list h2 {
+    color: black;
+    font-size: 16px;
+}
+
+.tab {
+    margin-left: 40px;
+    text-indent: -15px;
+    width: 75%;
+}
+
+.margin-top {
+    margin-top: 5px;
+}
+

@@ -1,0 +1,12 @@
+.editor-container {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 100%;
+    overflow-y: auto;
+    margin-top: -15px;
+}
+
+.editor-content {
+    padding: 15px;
+}
