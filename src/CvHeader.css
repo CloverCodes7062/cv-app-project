@@ -29,6 +29,7 @@
     text-align: center;
     font-weight: 600;
     margin-right: 10px;
+    color: #ffffff;
 }
 
 #phone-number {
@@ -36,6 +37,7 @@
     text-align: center;
     font-weight: 600;
     margin-right: 10px;
+    color: #ffffff;
 }
 
 #location {
@@ -43,4 +45,5 @@
     text-align: center;
     font-weight: 600;
     margin-right: 10px;
+    color: #ffffff;
 }
