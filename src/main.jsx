@@ -7,17 +7,17 @@ import EditorContainer from './EditorContainer.jsx'
 import CvHeader from './CvHeader.jsx'
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import PersonalDetailsEditor from './PersonalDetailsEditor.jsx'
-import CvEducation from './CvEducation'
-import EducationEditor from './EducationEditor'
+import CvEducation from './CvEducation.jsx'
+import EducationEditor from './EducationEditor.jsx'
 import 'animate.css';
-import CvProjects from './CvProjects'
-import ProjectsEditor from './ProjectsEditor'
-import CvCoursework from './CvCourseWork'
-import CourseworkEditor from './CourseworkEditor'
-import CvExperience from './CvExperience'
-import ExperienceEditor from './ExperienceEditor'
-import CvSkills from './CvSkills'
-import SkillsEditor from './skillsEditor'
+import CvProjects from './CvProjects.jsx'
+import ProjectsEditor from './ProjectsEditor.jsx'
+import CvCoursework from './CvCourseWork.jsx'
+import CourseworkEditor from './CourseworkEditor.jsx'
+import CvExperience from './CvExperience.jsx'
+import ExperienceEditor from './ExperienceEditor.jsx'
+import CvSkills from './CvSkills.jsx'
+import SkillsEditor from './skillsEditor.jsx'
 
 function App() {
   const [nameValue, setNameValue] = React.useState('Stacy McCarrell');
